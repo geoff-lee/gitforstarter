@@ -1,4 +1,5 @@
 # Git 자주 사용하는 명령어 정리
+-- Most often used command in Git
 <<<<<<< HEAD
 
 최근 수정일: 2018-10-14
